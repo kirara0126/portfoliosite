@@ -478,6 +478,15 @@ font-size: 25px;}
 .main07-img02 img{
   height: 676px; width: 231px;
 }
+.a-1 a{
+  font-size: 16px;
+  color: #84CDD3;
+  font-family: "bokutoh-rera", sans-serif;
+}
+
+.a-1 a:hover{
+  color: #FFF100;
+}
 
 /*デスクトップ版
 -------------------------------*/
