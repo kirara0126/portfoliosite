@@ -479,6 +479,8 @@ font-size: 25px;}
 }
 .main07-img02 img{
   height: 676px; width: 231px;
+
+
 }
 .a-1 a{
   font-size: 16px;
@@ -493,7 +495,9 @@ font-size: 25px;}
 .main08-img02 img {
   width: 345px; height: 580px;
 }
-
+.sheet{
+  text-align: center;
+}
 /*デスクトップ版
 -------------------------------*/
 @media(min-width: 800px){
